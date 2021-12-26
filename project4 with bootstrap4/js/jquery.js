@@ -1,4 +1,4 @@
-$(document).ready(function () {
+jQuery(function () {
   // slider height
   var winheight = $(window).height(),
     uppheight = $(".upper-bar").innerHeight(),
